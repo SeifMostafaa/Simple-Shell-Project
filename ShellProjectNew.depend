@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1604680046 source:/home/seif/Desktop/ShellProjectNew/main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<readline/readline.h>
+	<readline/history.h>
+
